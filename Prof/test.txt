@@ -1,0 +1,6 @@
+Langue: français; niveau: débutant; catégorie: grammaire;
+
+1. Bonjour madame, vous êtes #élégante#.
+2. Bonjour monsieur, vous êtes #élégant#.
+3. Cet homme et cette femme se #regardent# en chien de faïence.
+4. La #gamelle# du chien est plus grande que les #gamelles# des chats.
